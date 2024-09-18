@@ -55,8 +55,3 @@ Jered Kalombo & Jack Bergin
 ## License
 
 Copyright(c) [2024] 
-
-On Tue, Sep 17, 2024 at 11:07 PM Jack Bergin <jack.bergin@maine.edu> wrote:
-repo:Jack-Boop-Boop/Assignment-1-Flights 
-
-https://github.com/Jack-Boop-Boop/Assignment-1-Flights/tree/main
